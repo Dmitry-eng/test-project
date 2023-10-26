@@ -9,7 +9,7 @@ public class Person {
 
     public void setName(String name) {
         if (name == null || name.isBlank()) {
-            throw new IllegalArgumentException("123");
+            throw new IllegalArgumentException("123 -5667");
         }
         this.name = name;
     }
